@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website sale",
+      "type": "income",
+      "category": "Sales",
+      "price": 14000,
+      "createdAt": "2023-01-12T21:01:45.201Z"
+    },
+    {
+      "id": 2,
+      "description": "Bills payment",
+      "type": "outcome",
+      "category": "Costs",
+      "price": 2000,
+      "createdAt": "2023-01-12T21:01:50.201Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite from Rocketseat",
+      "type": "outcome",
+      "category": "Costs",
+      "price": 4000,
+      "createdAt": "2023-01-12T21:02:50.201Z"
+    },
+    {
+      "description": "A new transaction",
+      "price": 12000,
+      "category": "Sales",
+      "type": "income",
+      "createdAt": "2023-01-12T23:57:36.913Z",
+      "id": 4
+    },
+    {
+      "description": "Maintance of a computer",
+      "price": 2000,
+      "category": "Costs",
+      "type": "outcome",
+      "createdAt": "2023-01-12T23:59:22.813Z",
+      "id": 5
+    },
+    {
+      "description": "Trip",
+      "price": 3000,
+      "category": "Hobbies",
+      "type": "outcome",
+      "createdAt": "2023-01-13T00:01:11.352Z",
+      "id": 6
+    },
+    {
+      "description": "My new transaction",
+      "price": 1400,
+      "category": "Sales",
+      "type": "income",
+      "createdAt": "2023-01-13T19:59:35.161Z",
+      "id": 7
+    }
+  ]
+}
